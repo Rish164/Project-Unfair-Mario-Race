@@ -1,4 +1,6 @@
-These are some responses from ChatGPT, which tells me about the approach of my project, how I should start, and if it is achievable by me or not. With this project I am able to gain knowledge in initial game development libraries, and integrating few aspects of AI within it. The whole purpose of this project is to provide me with a stepping stone to the world of programming, and help me integrate my programming knowledge in building something.
+Hi, this is my first git repository. This file demonstrates a conversation between myself and ChatGPT, that helps me decide an approach to start my first project using computer programming.
+
+ With this project I am able to gain knowledge in initial game development libraries, and integrating few aspects of AI within it. The whole purpose of this project is to provide me with a stepping stone to the world of programming, and help me integrate my programming knowledge in building something.
 
 Question:
 "I have thought about a project. I would like to create a racing game for Mario, in which the player will compete against an AI bot in Unfair Mario. The bot will tackle all the obstacles, but the player (Mario) will track through the map for winning the race. Rate this project in terms of how it will help me build a good profile in the world of programming, and is it possible for someone with my expertise to create?"
